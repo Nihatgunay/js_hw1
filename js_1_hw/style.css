@@ -1,0 +1,23 @@
+.div2 a {
+    margin-left: 20px;
+}
+
+.div2 {
+    margin-top: 15px;
+}
+
+.div3 {
+    display: flex;
+}
+
+.ulpos {
+    display: flex;
+    text-align: center;
+}
+
+.delete-btn {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+
